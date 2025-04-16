@@ -1,4 +1,4 @@
-# cleat.apl
+# cleat.apl~
 cleat.apl~ (CLEAT Acoustic Point Localizer) is a max object for placing point sources of audio on sparse multichannel speaker grids.
 
 Designed for the CLEAT system (Elastic Arts, Chicago, IL), a 16ch 4x4 grid of ceiling mounted hemisperical point source speakers spaced 2.83m apart in x-y. 
