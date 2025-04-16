@@ -241,7 +241,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 9.0, 59.0, 621.0, 173.0 ],
-					"text" : "CLEAT APL is a multichannel acoustic point localizer designed for the CLEAT system (Elastic Arts, Chicago, IL), a 16ch 4x4 grid of ceiling mounted hemisperical point source speakers spaced 2.83m apart in x-y. \n\nThis object allows for acoustically informed spatialization of monophonic of monophonic input signals onto, and above, the speaker array. This is done with pseudo-wave-field-synthesis techniques to map group delay and air absorbtion across the space. Parameters are left exposed to the user to exploit these spatial and acoustical characteristics for artistic purpose.\n\nFor more info about CLEAT, visit www.cleat.info"
+					"text" : "CLEAT APL is a multichannel acoustic point localizer designed for the CLEAT system (Elastic Arts, Chicago, IL), a 16ch 4x4 grid of ceiling mounted hemispherical point source speakers spaced 2.83m apart in x-y. \n\nThis object allows for acoustically informed spatialization of monophonic of monophonic input signals onto, and above, the speaker array. This is done with pseudo-wave-field-synthesis techniques to map group delay and air absorbtion across the space. Parameters are left exposed to the user to exploit these spatial and acoustical characteristics for artistic purpose.\n\nFor more info about CLEAT, visit www.cleat.info"
 				}
 
 			}
