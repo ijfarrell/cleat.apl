@@ -1,0 +1,2 @@
+max objectfile cleat.apl~ cleat.apl~;
+max definesubstitution cleat.apl~ bpatcher @name cleat.apl~.maxpat;
