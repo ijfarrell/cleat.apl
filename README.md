@@ -6,4 +6,5 @@ Designed for the CLEAT system (Elastic Arts, Chicago, IL), a 16ch 4x4 grid of ce
 This object allows for acoustically informed spatialization of monophonic of monophonic input signals onto, and above, the speaker array. This is done with pseudo-wave-field-synthesis techniques to map group delay and air absorbtion across the space. Parameters are left exposed to the user to exploit these spatial and acoustical characteristics for artistic purpose.
 
 For more info about CLEAT, visit www.cleat.info
+
 This object was inspired in part by Damon Ammons' CLEAT Mixing Software: github.com/nisipulsewidth/CleatMixingSoftware
