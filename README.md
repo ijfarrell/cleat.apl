@@ -7,4 +7,4 @@ This object allows for acoustically informed spatialization of monophonic of mon
 
 For more info about CLEAT, visit www.cleat.info
 
-This object was inspired in part by Damon Ammons' CLEAT Mixing Software: github.com/nisipulsewidth/CleatMixingSoftware
+This object was inspired in part by Damon Ammons' CLEAT Mixing Software: www.github.com/nisipulsewidth/CleatMixingSoftware
