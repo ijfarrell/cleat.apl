@@ -1,2 +1,4 @@
 max objectfile cleat.apl~ cleat.apl~;
 max definesubstitution cleat.apl~ bpatcher @name cleat.apl~.maxpat;
+max objectfile cleat.binaural cleat.binaural;
+max definesubstitution cleat.binaural bpatcher @name cleat.binaural.maxpat;
